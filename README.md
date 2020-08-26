@@ -1,2 +1,2 @@
 # Verilog
-Verilog projects
+Verilog modules
